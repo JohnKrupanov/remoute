@@ -8,7 +8,7 @@
 git remote add <имя репозатория> <URL-адрес репозитория в сети>
 ```
 ```C#
-While (count < 0)
+while(count > 0)
 {
   count--;
 }
